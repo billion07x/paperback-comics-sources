@@ -1,0 +1,24 @@
+[
+  {
+    "name": "ComicsCodes",
+    "type": "comic",
+    "description": "Western comics via ComicsCodes",
+    "version": "1.0.0",
+    "baseUrl": "https://comicscodes.com/",
+    "language": "en",
+    "enableLicensing": false,
+    "supportsHttps": true,
+    "info": { "requiresToken": false }
+  },
+  {
+    "name": "GetComics",
+    "type": "comic",
+    "description": "Western comics via GetComics.org",
+    "version": "1.0.0",
+    "baseUrl": "https://getcomics.org/",
+    "language": "en",
+    "enableLicensing": false,
+    "supportsHttps": true,
+    "info": { "requiresToken": false }
+  }
+]
